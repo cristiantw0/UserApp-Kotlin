@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="button_registrar_usuarios">Registrar Usuarios</string>
+    <string name="button_usuarios">Usuarios</string>
+    <string name="button_registrar">Registrar</string>
+    <string name="nombre">Nombre</string>
+    <string name="button_actualizar">Actualizar</string>
+</resources>
